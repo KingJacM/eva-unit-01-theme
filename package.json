@@ -19,7 +19,7 @@
         "evangelion"
     ],
     "engines": {
-        "vscode": "^1.69.0"
+        "vscode": "^1.62.0"
     },
     "categories": [
         "Themes"
