@@ -13,7 +13,8 @@
         "EVA",
         "theme",
         "dark theme",
-        "anime"
+        "anime",
+        "eva theme"
     ],
     "engines": {
         "vscode": "^1.69.0"
