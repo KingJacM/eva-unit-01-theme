@@ -2,7 +2,20 @@
     "name": "eva-unit-01-theme",
     "displayName": "EVA unit 01 theme",
     "description": "A improved version of EVA 01 theme, better on the eyes and more accurate color combination",
-    "version": "0.0.1",
+    "version": "1.0.0",
+    "publisher": "KingJacM",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/KingJacM/eva-unit-01-theme"
+    },
+    "icon": "icon.png",
+    "keywords": [
+        "EVA",
+        "theme",
+        "dark theme",
+        "anime"
+    ],
+    
     "engines": {
         "vscode": "^1.69.0"
     },
