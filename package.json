@@ -14,7 +14,9 @@
         "theme",
         "dark theme",
         "anime",
-        "eva theme"
+        "eva theme",
+        "eva 01",
+        "evangelion"
     ],
     "engines": {
         "vscode": "^1.69.0"
