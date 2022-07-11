@@ -1,0 +1,21 @@
+{
+    "name": "eva-unit-01-theme",
+    "displayName": "EVA unit 01 theme",
+    "description": "A improved version of EVA 01 theme, better on the eyes and more accurate color combination",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.69.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "EVA Unit 1 Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/EVA Unit 1 Theme-color-theme.json"
+            }
+        ]
+    }
+}
