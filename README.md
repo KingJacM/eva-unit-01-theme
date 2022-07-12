@@ -6,7 +6,7 @@ source code https://github.com/KingJacM/eva-unit-01-theme
 
 feel free to pull request/start issue
 
-note: neon and background is implemented with two other extension, add the following code to the settings.json after downloading *background* and *vscode custom css* extensions. 
+Note: neon and background is implemented with two other extension, **you can change/display the background with personal preference**. Add the following code to the settings.json after downloading *Background* and *vscode_custom_css* extensions. 
 ```
 "background.useDefault": false,
     "background.customImages": [
