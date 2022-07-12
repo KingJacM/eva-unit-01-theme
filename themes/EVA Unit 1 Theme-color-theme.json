@@ -28,7 +28,7 @@
         "sideBarTitle.foreground": "#ffffff",
         "sideBar.border": "#000000",
     	"sideBar.foreground": "#ffffffc5",
-        // "sideBar.background": "#242222",
+       
        
         "sideBarSectionHeader.border": "#55ff00",
    
@@ -38,7 +38,7 @@
         "list.activeSelectionBackground": "#8a55e06b",
         "list.activeSelectionForeground": "#55ff00",
         "list.highlightForeground": "#a94cce",
-        "list.focusBackground": "#df8bf8",
+        "list.focusBackground": "#8a55e06b",
 
         "tree.indentGuidesStroke": "#55ff00",
 
@@ -102,6 +102,7 @@
 
         "notifications.foreground": "#e091ff",
         "notifications.border": "#a94cce",
+        "notifications.background": "#ff0000",
 
         
         "editorCursor.foreground": "#15ff00",

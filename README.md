@@ -6,9 +6,7 @@ source code https://github.com/KingJacM/eva-unit-01-theme
 
 feel free to pull request/start issue
 
-note: neon and background is implemented with two other extension, add the following code to the settings.json after downloading *background* and *vscode custom css* extensions. Neon CSS:https://github.com/robb0wen/synthwave-vscode/blob/master/synthwave84.css
-
-To change some color based on your own preference, see https://code.visualstudio.com/api/extension-guides/color-theme and some other tutorials on internet.
+note: neon and background is implemented with two other extension, add the following code to the settings.json after downloading *background* and *vscode custom css* extensions. 
 ```
 "background.useDefault": false,
     "background.customImages": [
@@ -50,3 +48,7 @@ To change some color based on your own preference, see https://code.visualstudio
     ],
     
 ```
+
+Neon CSS:https://github.com/robb0wen/synthwave-vscode/blob/master/synthwave84.css
+
+To change some color based on your own preference, see https://code.visualstudio.com/api/extension-guides/color-theme and some other tutorials on internet.
