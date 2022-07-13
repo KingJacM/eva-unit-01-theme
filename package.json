@@ -27,9 +27,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "EVA Unit 1 Theme",
+                "label": "EVA Unit-1 Theme",
                 "uiTheme": "vs-dark",
                 "path": "./themes/EVA Unit 1 Theme-color-theme.json"
+            },
+            {
+                "label": "EVA Unit-1 Theme V2",
+                "uiTheme": "vs-dark",
+                "path": "./themes/EVA Unit 1 Theme-color-theme V2.json"
             }
         ]
     }

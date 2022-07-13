@@ -1,7 +1,13 @@
 # README
 
 An improved version of EVA 01 theme, better on the eyes and more accurate color combination
+
+Version 1:
 <img src="demo.png">
+
+Version 2:
+<img src="demo2.png">
+
 source code https://github.com/KingJacM/eva-unit-01-theme
 
 feel free to pull request/start issue
