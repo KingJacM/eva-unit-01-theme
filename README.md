@@ -1,6 +1,6 @@
 # README
 
-An improved version of EVA 01 theme, better on the eyes and more accurate color combination
+An improved version of EVA 01 theme, better on the eyes and more accurate color combination.
 
 Version 1:
 <img src="demo.png">
@@ -10,9 +10,9 @@ Version 2:
 
 source code https://github.com/KingJacM/eva-unit-01-theme
 
-feel free to pull request/start issue
+Please leave a rating if you like it and feel free to pull request/start issue on Github.
 
-Note: neon and background is implemented with two other extension, **you can change/display the background with personal preference**. Add the following code to the settings.json after downloading *Background* and *vscode_custom_css* extensions. 
+> Note: neon and background is implemented with two other extension, **you can choose to change/whether to display the background with personal preference**. Add the following code to the > settings.json after downloading *Background* and *vscode_custom_css* extensions. 
 ```
 "background.useDefault": false,
     "background.customImages": [
@@ -55,6 +55,6 @@ Note: neon and background is implemented with two other extension, **you can cha
     
 ```
 
-Neon CSS:https://github.com/robb0wen/synthwave-vscode/blob/master/synthwave84.css
+Neon CSS: https://github.com/robb0wen/synthwave-vscode/blob/master/synthwave84.css
 
 To change some color based on your own preference, see https://code.visualstudio.com/api/extension-guides/color-theme and some other tutorials on internet.
